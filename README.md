@@ -1,11 +1,16 @@
-### Hi there 👋
+# Hi, I'm Pruthvi Sanghavi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-- 🔭 I’m currently working on Autonomous Electric Scooter
-- 🌱 I’m currently learning stock trading and mobility on demand concepts
-<!-- - 👯 I’m looking to collaborate on--> 
-<!-- - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about anything
-<!-- - 📫 How to reach me: [email me](pruthvisanghavi1997@gmail.com)-->
-- 😄 Pronouns: He, Him, His
-<!-- - ⚡ Fun fact: ...-->
+[![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-Yes-green.svg)](https://shields.io/)
+[![Linkedin: Pruthvi](https://img.shields.io/badge/-Umang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-sanghavi/)](https://www.linkedin.com/in/pruthvi-sanghavi/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<!--[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://urastogi.wordpress.com/)-->
 
+## :memo: Little bit about me
+- Robotics Masters Student at <a href="https://robotics.umd.edu/">UMD</a> graduating in May 2021 <img src="https://media1.giphy.com/media/VGQh2JdmphZHUBT0Bi/giphy.gif" width="30">
+<!--- Software Developer Intern at <a href="https://www.digitaldreamlabs.com/">Digital Dream Labs</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">-->
+- Passionate about the autonomous vehicles industry
+
+## :wrench: Tools & Technologies
+- Operating Systems: ![OS: Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=orange)
+- Programming Languages: [![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)](https://www.cplusplus.com/) [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green)](https://www.python.org/)
+- IDEs: [![VSCode](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=jetbrains&logoColor=white&color=green)](https://www.jetbrains.com/pycharm/) 
