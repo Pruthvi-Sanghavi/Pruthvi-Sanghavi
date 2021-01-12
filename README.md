@@ -2,7 +2,6 @@
 
 [![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-Yes-green.svg)](https://shields.io/)
 [![Linkedin: Pruthvi](https://img.shields.io/badge/-Pruthvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-sanghavi/)](https://www.linkedin.com/in/pruthvi-sanghavi/)
-<!--[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pruthvi-sanghavi.github.io/)
 
 <!---## :memo: Little bit about me
