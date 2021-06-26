@@ -1,6 +1,6 @@
 # Hi, I'm Pruthvi Sanghavi! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40">
 
-[![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-Yes-green.svg)](https://shields.io/)
+<!-- [![Jobs](https://img.shields.io/badge/Job%20Hunting%3F-No-green.svg)](https://shields.io/) -->
 [![Linkedin: Pruthvi](https://img.shields.io/badge/-Pruthvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvi-sanghavi/)](https://www.linkedin.com/in/pruthvi-sanghavi/)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://pruthvi-sanghavi.github.io/)
 
